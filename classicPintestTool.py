@@ -1,7 +1,5 @@
 #!/usr/bin/env python3
 """
-🚀 AutoPentest Assistant - ULTIMATE EDITION
-Complete penetration testing system without Telegram
 Version 4.0 - All-in-One Cyber Weapon
 """
 
@@ -1921,4 +1919,5 @@ def main():
     asyncio.run(main_async())
 
 if __name__ == "__main__":
+
     main()
