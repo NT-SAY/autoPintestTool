@@ -44,10 +44,6 @@
 - SearchSploit, Ldapsearch, Enum4linux
 
 ### Installation
-# Clone and install
-git clone https://github.com/your-org/autopentest-ultimate.git
-cd autopentest-ultimate
-
 # Install dependencies
 pip install aiohttp beautifulsoup4 requests pyyaml simdjson networkx
 
