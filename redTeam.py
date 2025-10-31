@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-🚀 AutoPentest Assistant - ULTIMATE WEAPON v7.1
+AutoPentest Assistant v7.1
 Complete penetration testing framework with ALL features + Bloodhound Parser + ExploitDB Integration
 """
 
@@ -2520,4 +2520,5 @@ async def main():
         sys.exit(1)
 
 if __name__ == "__main__":
+
     asyncio.run(main())
