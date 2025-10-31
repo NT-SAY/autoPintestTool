@@ -1,6 +1,6 @@
 # autoPintestTools
 **Complete penetration testing system without Telegram dependencies**  
-*Version 4.0 - All-in-One Cyber Weapon*
+*Version 4.0 - All-in-One Cyber tool*
 
 ## 📖 Overview
 
